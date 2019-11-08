@@ -1,0 +1,2 @@
+import zenmu
+print(zenmu)
