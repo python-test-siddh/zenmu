@@ -6,5 +6,5 @@ z=zenmu.zenmu(_a)
 print(z)
 print(type(z))
 for _i in z:
-  print(z[_i])
+  print(_i)
 
