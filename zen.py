@@ -1,5 +1,6 @@
 import zenmu
 print(zenmu)
 print(zenmu.zenmu)
-print(zenmu.zenmu('a'))
+_a=b'\x01\x02\x03\x04\x05'
+print(zenmu.zenmu(_a))
 
